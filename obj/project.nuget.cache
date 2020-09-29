@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "BgUko/fPvuy98b5YyefeoHVTOmz38MIdBriAgCEUKWRZ7X13Z6u2g0EB/uK1VXQpQ9vgRerwM6qdN6aeplcGQA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\pakoa\\OneDrive\\Documentos\\CursosProgramacion\\CSharp\\DallasWeatherService\\DallasWeatherService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pakoa\\.nuget\\packages\\csvhelper\\15.0.6\\csvhelper.15.0.6.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.win32.registry\\4.5.0\\microsoft.win32.registry.4.5.0.nupkg.sha512",
+    "C:\\Users\\pakoa\\.nuget\\packages\\system.diagnostics.eventlog\\4.5.0\\system.diagnostics.eventlog.4.5.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.security.accesscontrol\\4.5.0\\system.security.accesscontrol.4.5.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.security.permissions\\4.5.0\\system.security.permissions.4.5.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.security.principal.windows\\4.5.0\\system.security.principal.windows.4.5.0.nupkg.sha512",
+    "C:\\Users\\pakoa\\.nuget\\packages\\system.serviceprocess.servicecontroller\\4.5.0\\system.serviceprocess.servicecontroller.4.5.0.nupkg.sha512",
+    "C:\\Users\\pakoa\\.nuget\\packages\\system.threading.accesscontrol\\4.5.0\\system.threading.accesscontrol.4.5.0.nupkg.sha512",
+    "C:\\Users\\pakoa\\.nuget\\packages\\topshelf\\4.2.1\\topshelf.4.2.1.nupkg.sha512",
+    "C:\\Users\\pakoa\\.nuget\\packages\\topshelf.serviceinstaller\\4.2.1\\topshelf.serviceinstaller.4.2.1.nupkg.sha512"
+  ],
+  "logs": []
+}
